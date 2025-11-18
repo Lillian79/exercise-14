@@ -1,0 +1,29 @@
+body {
+    padding: 20px;
+    background: #f4f4f4;
+}
+
+/* Heading 1 */
+.heading1 {
+    font-size: 40px;
+    border-bottom: 4px double black;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+}
+
+/* Heading 2 */
+.heading2 {
+    font-size: 28px;
+    font-style: italic;
+    border: 3px solid gold;
+    padding: 10px;
+    background: white;
+    margin: 20px 0;
+}
+
+/* Heading 3 */
+.heading3 {
+    font-size: 24px;
+    float: right;
+    margin-top: 40px;
+}
